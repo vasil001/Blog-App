@@ -1,0 +1,14 @@
+mat-form-field,
+textarea{
+  width: 100%;
+}
+
+button {
+  color: dimgray;
+  background-color: peachpuff;
+  margin-top: 1rem;
+}
+
+mat-spinner {
+  margin: auto;
+}
